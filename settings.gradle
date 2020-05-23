@@ -1,0 +1,2 @@
+rootProject.name='Resep Makanan'
+include ':app'
