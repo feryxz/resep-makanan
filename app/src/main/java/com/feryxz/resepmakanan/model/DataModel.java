@@ -2,6 +2,10 @@ package com.feryxz.resepmakanan.model;
 
 import java.io.Serializable;
 
+/**
+ * Created by Feryxz Dev on 24/05/2020.
+ */
+
 public class DataModel implements Serializable{
 
     Integer viewType;

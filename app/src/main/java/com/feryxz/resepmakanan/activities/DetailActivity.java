@@ -14,7 +14,9 @@ import androidx.appcompat.widget.Toolbar;
 
 import com.feryxz.resepmakanan.model.DataModel;
 import com.feryxz.resepmakanan.R;
-
+/**
+ * Created by Feryxz Dev on 24/05/2020.
+ */
 public class DetailActivity extends AppCompatActivity {
 
     WebView webView;

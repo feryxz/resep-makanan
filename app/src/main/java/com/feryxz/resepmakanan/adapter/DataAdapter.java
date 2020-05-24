@@ -16,6 +16,10 @@ import com.feryxz.resepmakanan.activities.DetailActivity;
 
 import java.util.ArrayList;
 
+/**
+ * Created by Feryxz Dev on 24/05/2020.
+ */
+
 public class DataAdapter extends RecyclerView.Adapter<RecyclerView.ViewHolder> {
 
     private ArrayList<DataModel> dataModelArrayList;

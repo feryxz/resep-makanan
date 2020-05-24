@@ -18,6 +18,10 @@ import com.feryxz.resepmakanan.R;
 
 import java.util.ArrayList;
 
+/**
+ * Created by Feryxz Dev on 24/05/2020.
+ */
+
 public class MainActivity extends AppCompatActivity {
 
     public DataAdapter dataAdapter;
